@@ -1,5 +1,5 @@
-Hi My name is Daniel Oyieke
-=====================================================================================================================================
+Hi ! My name is Daniel Ligula Oyieke
+============================================================================================================================================
 
 SOFTWARE ENGINEER | HTML | CSS | JAVASCRIPT | C# | .NET CORE
 ------------------------------------------------------------
@@ -7,6 +7,8 @@ SOFTWARE ENGINEER | HTML | CSS | JAVASCRIPT | C# | .NET CORE
 Hi, my name is Daniel and I am a software engineer with a strong background in both front-end and back-end development. I am proficient in a range of programming languages, including HTML, CSS, JavaScript, C#, and .NET Core. Throughout my career, I have gained experience with a variety of software development tools and frameworks. I have also gained proficiency in version control systems, such as Git, and have a strong understanding of data structures and algorithms. In addition to my technical skills, I have a strong focus on testing and debugging, ensuring that the software I build is reliable and of high quality. I am also skilled in writing clean, efficient, and maintainable code, as well as communicating effectively with team members and stakeholders. I am excited to continue growing my career as a software engineer and making a positive impact on the projects and teams I work with.
 
 * 🌍  I'm based in Jacksonville
+* 🖥️  See my portfolio at [https://www.danieloyieke.com/](http://https://www.danieloyieke.com/)
+* ✉️  You can contact me at [danielligula@gmail.com](mailto:danielligula@gmail.com)
 * 🧠  I'm learning .NET MAUI
 
 <a href="https://www.github.com/Deeligz" target="_blank" rel="noreferrer"><img
