@@ -1,4 +1,4 @@
-Hi ! My name is Daniel Ligula Oyieke
+Hi ! My name is Daniel  
 ============================================================================================================================================
 
 SOFTWARE ENGINEER | HTML | CSS | JAVASCRIPT | C# | .NET CORE
